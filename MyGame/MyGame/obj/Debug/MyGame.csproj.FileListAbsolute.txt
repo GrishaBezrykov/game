@@ -1,0 +1,10 @@
+C:\Users\Данила\source\repos\MyGame\MyGame\bin\Debug\MyGame.exe.config
+C:\Users\Данила\source\repos\MyGame\MyGame\bin\Debug\MyGame.exe
+C:\Users\Данила\source\repos\MyGame\MyGame\bin\Debug\MyGame.pdb
+C:\Users\Данила\source\repos\MyGame\MyGame\obj\Debug\MyGame.csprojAssemblyReference.cache
+C:\Users\Данила\source\repos\MyGame\MyGame\obj\Debug\MyGame.Properties.Resources.resources
+C:\Users\Данила\source\repos\MyGame\MyGame\obj\Debug\MyGame.csproj.GenerateResource.cache
+C:\Users\Данила\source\repos\MyGame\MyGame\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+C:\Users\Данила\source\repos\MyGame\MyGame\obj\Debug\MyGame.exe
+C:\Users\Данила\source\repos\MyGame\MyGame\obj\Debug\MyGame.pdb
+C:\Users\Данила\source\repos\MyGame\MyGame\obj\Debug\MyGame.Form1.resources
